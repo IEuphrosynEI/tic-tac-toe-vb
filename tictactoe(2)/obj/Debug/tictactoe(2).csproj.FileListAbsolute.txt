@@ -1,0 +1,11 @@
+C:\Users\PC16\source\repos\tictactoe(2)\tictactoe(2)\bin\Debug\tictactoe(2).exe.config
+C:\Users\PC16\source\repos\tictactoe(2)\tictactoe(2)\bin\Debug\tictactoe(2).exe
+C:\Users\PC16\source\repos\tictactoe(2)\tictactoe(2)\bin\Debug\tictactoe(2).pdb
+C:\Users\PC16\source\repos\tictactoe(2)\tictactoe(2)\obj\Debug\tictactoe(2).csproj.AssemblyReference.cache
+C:\Users\PC16\source\repos\tictactoe(2)\tictactoe(2)\obj\Debug\tictactoe(2).csproj.SuggestedBindingRedirects.cache
+C:\Users\PC16\source\repos\tictactoe(2)\tictactoe(2)\obj\Debug\tictactoe_2_.Form1.resources
+C:\Users\PC16\source\repos\tictactoe(2)\tictactoe(2)\obj\Debug\tictactoe_2_.Properties.Resources.resources
+C:\Users\PC16\source\repos\tictactoe(2)\tictactoe(2)\obj\Debug\tictactoe(2).csproj.GenerateResource.cache
+C:\Users\PC16\source\repos\tictactoe(2)\tictactoe(2)\obj\Debug\tictactoe(2).csproj.CoreCompileInputs.cache
+C:\Users\PC16\source\repos\tictactoe(2)\tictactoe(2)\obj\Debug\tictactoe(2).exe
+C:\Users\PC16\source\repos\tictactoe(2)\tictactoe(2)\obj\Debug\tictactoe(2).pdb
